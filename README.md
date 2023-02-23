@@ -1,4 +1,6 @@
 # -Implementing-a-Simple-Search-Algorithm-in-Python
+          **TASK:**
+          
           1.	Research the Depth-First Search (DFS) & Breadth First Search (BFS)Algorithms:
 Depth-First Search (DFS) and Breadth-First Search (BFS) are two of the most basic and commonly used algorithms for searching through a graph or tree. Both algorithms are used to traverse a graph or tree and find a particular node or path. 
 DFS: DFS starts at the root node and explores as far as possible along each branch before backtracking. It uses a stack to keep track of the nodes to visit next. DFS is good for finding a path between two nodes if one exists, and it can also be used to find all the nodes in a connected component of a graph.
