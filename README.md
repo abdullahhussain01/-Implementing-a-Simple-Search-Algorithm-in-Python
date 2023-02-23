@@ -33,4 +33,5 @@ we can find the path from Arad to Bucharest as follows:
 5.	Visit node Fagaras, mark it as visited, and add its unvisited neighbor (Bucharest) to the queue.
 6.	Visit node Bucharest, mark it as visited, and terminate the search.
 7.	Construct the path: [Arad, Sibiu, Fagaras, Bucharest].
-So the shortest path from Arad to Bucharest using BFS is ['Arad', 'Sibiu', 'Fagaras', 'Bucharest'].
+
+          So the shortest path from Arad to Bucharest using BFS is ['Arad', 'Sibiu', 'Fagaras', 'Bucharest'].
