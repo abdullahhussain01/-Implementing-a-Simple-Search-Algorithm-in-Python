@@ -3,6 +3,7 @@
 Depth-First Search (DFS) and Breadth-First Search (BFS) are two of the most basic and commonly used algorithms for searching through a graph or tree. Both algorithms are used to traverse a graph or tree and find a particular node or path. 
 DFS: DFS starts at the root node and explores as far as possible along each branch before backtracking. It uses a stack to keep track of the nodes to visit next. DFS is good for finding a path between two nodes if one exists, and it can also be used to find all the nodes in a connected component of a graph.
  BFS: BFS starts at the root node and explores all the nodes at the current depth before moving on to the next depth. It uses a queue to keep track of the nodes to visit next. BFS is good for finding the shortest path between two nodes, and it can also be used to find all the nodes in a connected component of a graph.
+ 
           2.	Apply DFS and BFS on Romanian example:
 The Romanian example is a classic problem in graph theory, which involves finding the shortest path between two cities in Romania using different search algorithms.
 we want to find the shortest path between the cities Arad and Bucharest, we can apply Depth-First Search (DFS) and Breadth-First Search (BFS) algorithms on the graph.
